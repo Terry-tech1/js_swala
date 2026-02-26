@@ -9,4 +9,4 @@ console.log( email)
 
 // create an array of 5 countries and log the second county in the console using  its index
 let countries= ["Nirobi","Kisumu","Meru","Kilifi","Marsabit"]
-console.log(countries[1])
+console.log(countries[1]) 
