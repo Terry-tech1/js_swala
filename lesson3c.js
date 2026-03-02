@@ -12,7 +12,7 @@ sayHello()
  function add (){
     let num1=23
     let num2=10
-    let answer =num1|+num2
+    let answer =num1+num2
     console.log(`the answer is;${answer}`)
  }
 add()
